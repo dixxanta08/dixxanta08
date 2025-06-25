@@ -12,6 +12,9 @@
 - 📫 How to reach me **dixantashrestha08@gmail.com**
 
 - ⚡ Fun fact **I watch Formula 1**
+<h3 align="left">Check out my packages:</h3>
+<p align="left">
+<a href="https://www.npmjs.com/~dixxanta08" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/2560px-Npm-logo.svg.png" alt="dixxanta08" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
