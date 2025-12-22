@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dixxanta Shrestha</h1>
 <h3 align="center">A fullstack web developer from kathmandu</h3>
-<a href="https://raw.githubusercontent.com/dixxanta08/dixxanta08/main/DIXXANTA_CV_SEPT_2025.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://raw.githubusercontent.com/dixxanta08/dixxanta08/main/Dixxanta%20CV%20December%202025.pdf" target="_blank" rel="noopener noreferrer">
   Download my Resume (PDF)
 </a>
 <br/>
+<a href="https://dixantashrestha.com.np" target="_blank" rel="noopener noreferrer">
+Check my portfolio
+</a>
 <br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dixxanta08&label=Profile%20views&color=0e75b6&style=flat" alt="dixxanta08" /> </p>
