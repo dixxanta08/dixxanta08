@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dixxanta Shrestha</h1>
 <h3 align="center">A fullstack web developer from kathmandu</h3>
-<a href="https://raw.githubusercontent.com/dixxanta08/dixxanta08/main/Dixxanta%20CV%20December%202025.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://raw.githubusercontent.com/dixxanta08/dixxanta08/main/DIXANTA%20NATH%20SHRESTHA%20C_V%202026.pdf" target="_blank" rel="noopener noreferrer">
   Download my Resume (PDF)
 </a>
 <br/>
